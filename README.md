@@ -1,3 +1,3 @@
 # Demo
 
-I love gaming.
+I love gaming!
